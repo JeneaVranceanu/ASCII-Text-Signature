@@ -1,6 +1,8 @@
 # ASCII-Text-Signature
 ASCII Text Signature project from Jet Brains Academy https://hyperskill.org/projects/71?goal=347
 
+Note: view raw content.
+
 888888888888888888888888888888888888888888888888
 88  ooooooo  ooooo           ooooooo  ooooo   88
 88   `8888    d8'             `8888    d8'    88
